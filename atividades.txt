@@ -1,0 +1,4 @@
+- referencias para layout
+- layout principal (960px)
+- descrição da empresa
+- discriminação dos serviços
